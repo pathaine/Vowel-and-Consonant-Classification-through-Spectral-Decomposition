@@ -17,7 +17,7 @@ languages = [('/path/to/text/sample.txt','Language Name', [list of all of this l
 
 MolerAndMorrison.m (Moler and Morrison, 1983) and Sukhotin.py (Sukhotin, 1962; Guy, 1991) are baselines for our work.
 
-##Sources
+## Sources
 
 Jacques BM Guy. 1991. Vowel identification: an old (but good) algorithm. Cryptologia 15(3):258–262.
 
