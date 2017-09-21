@@ -3,7 +3,7 @@ Given an undeciphered alphabetic writing system or mono-alphabetic cipher, we ca
 (1) which of its letters are vowels and which are consonants; and \
 (2) whether the writing system is a vocalic alphabet or an abjad.
 
-The methods are thoroughly explained in: [Citation to be added when camera-ready is published]
+The methods are thoroughly explained in: http://www.aclweb.org/anthology/W17-4112
 
 To run the code on the current text samples:
 ```
